@@ -1,18 +1,19 @@
 ## 🧠 Prompts
 
-**a**
-
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                                   |
+| :------: | ------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook sobre o tema de JavaScript, o ebook é do nicho de programação e o subnicho é JavaScript moderno, o título deve ser épico, curto e lembrar o universo dos Vingadores (Marvel). Liste 5 variações de títulos.|
+| conteúdo | Escreva o texto de um ebook prático sobre JavaScript, com foco em conceitos essenciais e boas práticas.
+{REGRAS}
 
+Explique cada conceito de forma simples e direta, sem enrolar.
 
-ChatGPT：
+Sempre traga exemplos de código curtos e funcionais.
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Dê títulos criativos e envolventes a cada capítulo.
+
+Mostre como aplicar os conceitos em situações reais (como manipulação do DOM, eventos, funções, arrays, etc).
+
+Mantenha o tom leve e inspirador, como se o leitor fosse um herói aprendendo a dominar seus poderes em JavaScript. |
