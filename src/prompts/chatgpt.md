@@ -4,6 +4,6 @@ ChatGPT：
 
 |   Seção  | Descrição                        |
 | :------: | --------------------------------- |
-|   **Ação**   | Inspirar                        |
-|  **Título** | Crie um título de um ebook sobre o tema de JavaScript, o ebook é do nicho de programação e o subnicho é JavaScript moderno, o título deve ser épico, curto e lembrar o universo dos Vingadores (Marvel). Liste 5 variações de títulos.|
-| **Conteúdo** | Escreva o texto de um ebook prático sobre JavaScript, com foco em conceitos essenciais e boas práticas.<br>REGRAS:<br>Explique cada conceito de forma simples e direta, sem enrolar.<br>Sempre traga exemplos de código curtos e funcionais.<br>Dê títulos criativos e envolventes a cada capítulo.<br>Mostre como aplicar os conceitos em situações reais (como manipulação do DOM, eventos, funções, arrays, etc).<br>Mantenha o tom leve e inspirador, como se o leitor fosse um herói aprendendo a dominar seus poderes em JavaScript.|
+|   **Ação**   | Divertir                        |
+|  **Título** | Crie um roteiro engraçado explicando como foi a última rodada do Campeonato Brasileiro, com tom leve, humorístico e estilo de podcast de futebol.|
+| **Conteúdo** | Faça um roteiro divertido e envolvente que narre os acontecimentos da rodada como se fosse um programa de humor esportivo. Traga comentários sarcásticos, analogias engraçadas e expressões populares do futebol brasileiro. Inclua aberturas, blocos temáticos e encerramento, mantendo ritmo de podcast (2 a 3 minutos de duração).<br>Regras:<br>• Use linguagem popular e descontraída, como conversa entre amigos.<br>• Faça piadas leves, evitando ofensas a times ou torcidas.<br>• Destaque momentos marcantes (gols, erros, memes, VAR).|
