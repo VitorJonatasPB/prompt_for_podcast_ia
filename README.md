@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./imagens/Copiloto_20251030_165633.png"
+    src="imagens/Copilot_20251030_165633.png"
     width="300"
 />
 </p>
