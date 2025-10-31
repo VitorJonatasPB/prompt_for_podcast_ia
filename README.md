@@ -17,6 +17,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Audio Extractor](https://audio-extractor.net/pt/)
 
 ## ✨ Como foi feito ?
 
@@ -24,14 +25,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Copilot para gerar as imagens
 - Capcut para tratar aúdio e colocar em vídeo caso queira
-- AAudio Extractor para extrair o audio tratado do video
+- Audio Extractor para extrair o audio tratado do video
 
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-- [Audio Extractor](https://audio-extractor.net/pt/)
+- 
 
 
 ## 🛠️ Instruções de execução
